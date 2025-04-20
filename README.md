@@ -1,3 +1,38 @@
+🚀 Project Spotlight: AI-Cloud Synergy Feedback Platform
+🧠💬 Sentiment Analysis | 🌩️ AWS | 🤖 NLP with RoBERTa & VADER | 📱 React Native
+
+Proud to share my capstone project – a scalable, cloud-based sentiment analysis platform designed specifically for SMEs to gain real-time insights from customer feedback.
+
+Although this project appears to be a group submission, I independently conceptualized, developed, and delivered the entire architecture — from infrastructure to AI models to the frontend. Yes, every single line of code and every milestone was my own.
+
+🔍 Key Highlights:
+
+📊 Integrated RoBERTa and VADER models for real-time sentiment analysis.
+
+🌐 Built a cloud-native infrastructure using Amazon S3, SageMaker, and Lambda.
+
+📱 Developed a cross-platform mobile app with React Native.
+
+🔁 End-to-end data pipeline: Collection → Preprocessing → Prediction → Visualization.
+
+📈 Fine-tuned transformer models for better accuracy in domain-specific feedback.
+
+💡 Why this matters:
+Many SMEs struggle with the cost and complexity of extracting value from customer reviews. This platform offers them a cost-effective, serverless, and accurate AI-driven solution.
+
+📌 Lessons learned: ✅ Deep cloud integration with AWS
+✅ Transformer-based model training & deployment
+✅ Real-world project management and ownership
+✅ Building usable, non-technical interfaces
+
+🔗 I’m excited about AI, NLP, and building tools that create real impact. If you’re in this space—or know someone who is—I’d love to connect, collaborate, or explore opportunities!
+
+📎 #AI #CloudComputing #NLP #SageMaker #ReactNative #RoBERTa #AWS #SentimentAnalysis #SMEs #ProjectShowcase #OmPatil #DataScience #MachineLearning
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
